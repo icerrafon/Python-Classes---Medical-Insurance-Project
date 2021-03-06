@@ -8,4 +8,7 @@ You have been asked to develop a system that makes it easier to organize patient
   
   - Contains methods that allow users to update their information
   
-  - Gives patients insight into their potential medical fees. Let’s get started!
+  - Gives patients insight into their potential medical fees. 
+
+
+Let’s get started!
